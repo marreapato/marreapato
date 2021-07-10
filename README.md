@@ -1,4 +1,4 @@
-### Olá/ Hi there 👋
+### Olá/ Hi there/ Привет! 👋
 
 <!--
 **marreapato/marreapato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
