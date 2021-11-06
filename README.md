@@ -1,5 +1,7 @@
 ### Olá/ Hi there/ Привет! 👋
 
+I Wrote a [paper on Covid-19](https://www.sciencedirect.com/science/article/pii/S1877584521000605)
+
 <!--
 **marreapato/marreapato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
