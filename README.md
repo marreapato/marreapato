@@ -1,7 +1,7 @@
 # Olá/ Hi there/ Привет! 👋
 
 ## My Scientific Papers
- - [Spatio-Temboral Behavior of Covid-19](https://www.sciencedirect.com/science/article/pii/S1877584521000605)
+ - [Spatio-Temporal Behavior of Covid-19](https://www.sciencedirect.com/science/article/pii/S1877584521000605)
  - [Forecasting Daily Covid-19 Cases In the World With a Hybrid Model](https://www.sciencedirect.com/science/article/pii/S1568494622004938)
 <!--
 **marreapato/marreapato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
