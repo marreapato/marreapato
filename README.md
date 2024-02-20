@@ -1,4 +1,37 @@
-# Olá/ Hi there/ Привет! 👋
+# 👋 Hello, I'm Lucas Rabelo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lucas-rabelo-ab58492a1/)
+
+## 🎓 About Me
+
+- 🎓 Master's in Computer Science candidate. (Federal University Of Pernambuco)
+- 📊 Graduated in Statistics from the Federal University of Bahia.
+
+## 🚀 What I Do
+
+- 🔍 Currently focusing on AI research and development.
+- 💻 Proficient in Python and R.
+- 📈 Experience with Google Tag Manager and Google Analytics.
+- 🔧 Knowledge of JavaScript (helpful in problem-solving).
+
+## 📊 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-4285F4?style=flat-square&logo=google-tag-manager&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## 📈 My Tech Stack
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-rabelo-ab58492a1/)
+
+Feel free to explore my repositories and connect with me on LinkedIn. Let's collaborate and make an impact in the world of AI! 🚀
+
 
 ## My Scientific Papers
  - [Spatio-Temporal Behavior of Covid-19](https://www.sciencedirect.com/science/article/pii/S1877584521000605)
