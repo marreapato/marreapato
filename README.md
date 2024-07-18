@@ -13,7 +13,8 @@
 - 💻 Proficient in Python and R.
 - 📈 Experience with Google Tag Manager and Google Analytics.
 - 🔧 Knowledge of JavaScript (helpful in problem-solving).
-
+- 💻 PL/SQL and NoSQL
+  
 ## 📊 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
