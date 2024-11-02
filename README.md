@@ -39,6 +39,7 @@ Feel free to explore my repositories and connect with me on LinkedIn. Let's coll
  - [Spatio-Temporal Behavior of Covid-19](https://www.sciencedirect.com/science/article/pii/S1877584521000605)
  - [Forecasting Daily Covid-19 Cases In the World With a Hybrid Model](https://www.sciencedirect.com/science/article/pii/S1568494622004938)
  - [Neural Network-Enhanced Decision Support: Investigating Prediction Intervals for Real-Time Digital Marketing Return on Investment Data ](https://sol.sbc.org.br/index.php/brasnam/article/view/29332/29137)
+
 <!--
 **marreapato/marreapato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
