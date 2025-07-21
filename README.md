@@ -4,7 +4,7 @@
 
 ## 🎓 About Me
 
-- 🎓 Master's in Computer Science candidate. (Federal University Of Pernambuco)
+- 🎓 MSc Degree in Computer Science. (Federal University Of Pernambuco)
 - 📊 Graduated in Statistics from the Federal University of Bahia.
 
 ## 🚀 What I Do
