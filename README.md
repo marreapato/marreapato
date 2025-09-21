@@ -4,6 +4,7 @@
 
 ## 🎓 About Me
 
+- 🎓 PhD Student in Computer Science. (University of Galway - Insight SFI Research Centre For Data Analytics)
 - 🎓 MSc Degree in Computer Science. (Federal University Of Pernambuco)
 - 📊 Graduated in Statistics from the Federal University of Bahia.
 
