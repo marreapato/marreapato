@@ -32,7 +32,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-rabelo-ab58492a1/)
 - [Medium Profile](https://medium.com/@lucasrabeloufba)
-- [Web CV](marreapato.github.io)
+- Web CV in marreapato.github.io
 
 Feel free to explore my repositories and connect with me on LinkedIn. Let's collaborate and make an impact in the world of AI! 🚀
 
